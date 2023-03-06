@@ -2,7 +2,7 @@
 # Task:  Use the function myFunction to output a simple "Hello World!" statement
 
 def myFunction():
-    myText = "Hello, World!"
+    myText = "Hello World!"
     return myText
 
 print(myFunction())
