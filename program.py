@@ -4,3 +4,5 @@
 def myFunction():
     myText = "Hello, World!"
     return myText
+
+print(myFunction())
