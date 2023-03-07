@@ -7,4 +7,4 @@ def myFunction():
     return myText
     return name
 
-print(myFunction())
+print(myText, name())
